@@ -1,0 +1,9 @@
+CURRENCIES_API https://api.nomics.com/v1/currencies/ticker
+CURRENCIES_KEY  put here the api-key from https://p.nomics.com/cryptocurrency-bitcoin-api
+NEWS_API_KEY  put here the api-key from https://newsapi.org/
+NEWS_END_POINT  https://newsapi.org/v2/everything
+PHONE_NUMBER  put here the phone number from twilio
+TWILIO_SID  put here the sid from twilio
+TWILIO_AUTH_TOKEN put here the auth token from twilio
+ids_coins BTC,ETH,DOGE,ZEC,BTG,RVN,ARRR
+phone_to_send put here phone number to send to
